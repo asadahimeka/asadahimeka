@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ![Header](./github-header-image.png)
 
 - 🔭 I’m currently working on [yandere-masonry](https://github.com/asadahimeka/yandere-masonry)
-- 👨‍💻 All of my projects are available at [<PLACEHOLDER>](<PLACEHOLDER>)
+- 👨‍💻 All of my projects are available at [Repositories](https://github.com/asadahimeka?tab=repositories&q=&type=public&language=&sort=stargazers)
 - 📝 I regularly write articles on [https://www.nanoka.top](https://www.nanoka.top)
 - 📫 How to reach me **sakurayumine@ymail.ne.jp**
 
