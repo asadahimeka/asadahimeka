@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![github-readme-stats](https://github-readme-stats.vercel.app/api?username=asadahimeka&count_private=true&show_icons=true&theme=buefy)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asadahimeka&layout=compact&hide=html)
+
+![count](https://api.moedog.org/count/@asadahimeka_readme?theme=rule34)
