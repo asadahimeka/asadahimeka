@@ -32,8 +32,9 @@ Here are some ideas to get you started:
 
 <h3 align="left">GitHub Stats:</h3>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=asadahimeka&show_icons=true&locale=en&layout=compact&hide=html" alt="asadahimeka" /></p>
-  
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=asadahimeka" alt="asadahimeka" /></p>
+<p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=asadahimeka&show_icons=true&locale=en&layout=compact&hide=html" alt="asadahimeka" />
+<img height=165 src="https://github-readme-streak-stats.herokuapp.com/?user=asadahimeka" alt="asadahimeka" />
+</p>
 
 <p><img src="https://api.moedog.org/count/@asadahimeka_readme?theme=rule34" alt="asadahimeka" /></p>
