@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [Repositories](https://github.com/asadahimeka?tab=repositories&q=&type=public&language=&sort=stargazers)
 - 📝 I regularly write articles on [https://www.nanoka.top](https://www.nanoka.top)
-- 📫 How to reach me **sakurayumine@ymail.ne.jp**
+- 📫 How to reach me **sakurayumine[at]ymail.ne.jp**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
