@@ -107,7 +107,7 @@ Here are some ideas to get you started:
 <h3 align="left">GitHub Stats:</h3>
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=asadahimeka&show_icons=true&locale=en&layout=compact&hide=html" alt="asadahimeka" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=asadahimeka&show_icons=true&locale=en&layout=compact&hide=html,css,xslt" alt="asadahimeka" />
 <img height=165 src="https://github-readme-stats.vercel.app/api?username=asadahimeka&show_icons=true" alt="asadahimeka" />
 </p>
 
