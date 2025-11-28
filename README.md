@@ -107,8 +107,8 @@ Here are some ideas to get you started:
 <h3 align="left">GitHub Stats:</h3>
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=asadahimeka&show_icons=true&locale=en&layout=compact&hide=html,css,xslt" alt="asadahimeka" />
-<img height=165 src="https://github-readme-stats.vercel.app/api?username=asadahimeka&show_icons=true" alt="asadahimeka" />
+<img src="https://ghrs.cocomi.eu.org/api/top-langs?username=asadahimeka&show_icons=true&locale=en&layout=compact&hide=html,css,xslt" alt="asadahimeka" />
+<img height=165 src="https://ghrs.cocomi.eu.org/api?username=asadahimeka&show_icons=true" alt="asadahimeka" />
 </p>
 
 <p><img src="https://api.moedog.org/count/@asadahimeka_readme?theme=rule34" alt="asadahimeka" /></p>
