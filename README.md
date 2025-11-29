@@ -68,7 +68,7 @@ Here are some ideas to get you started:
     src="https://img.shields.io/badge/Next.js-000000.svg?style=flat&logo=nextdotjs&logoColor=white"
     alt="Next.js">
   <img
-    src="https://img.shields.io/badge/Nuxt.js-00DC82.svg?style=flat&logo=nuxtdotjs&logoColor=white"
+    src="https://img.shields.io/badge/Nuxt-00DC82.svg?style=flat&logo=nuxt&logoColor=white"
     alt="Nuxt.js">
   <img src="https://img.shields.io/badge/Hexo-0e83cd?style=flat&logo=hexo&logoColor=white"
     alt="Hexo">
@@ -107,7 +107,7 @@ Here are some ideas to get you started:
 <h3 align="left">GitHub Stats:</h3>
 
 <p>
-<img src="https://ghrs.cocomi.eu.org/api/top-langs?username=asadahimeka&show_icons=true&locale=en&layout=compact&hide=html,css,xslt" alt="asadahimeka" />
+<img src="https://ghrs.cocomi.eu.org/api/top-langs?username=asadahimeka&show_icons=true&locale=en&layout=compact&hide=html,css,xslt,go,templ" alt="asadahimeka" />
 <img height=165 src="https://ghrs.cocomi.eu.org/api?username=asadahimeka&show_icons=true" alt="asadahimeka" />
 </p>
 
